@@ -1,0 +1,25 @@
+/*  Filename: Footer.css */
+
+/*  Footer Styles */
+.footer {
+    flex-shrink: 0;
+    text-align: center;
+    background-color: #0093e9;
+}
+
+.footer > .footerContainer {
+    flex-shrink: 0;
+    background-color: #0093e9;
+}
+
+.footer > .footerInner > .footorRow > .footerCol > .title1{
+    padding-left: 40px;
+}
+
+.footer > .footerInner > .footorRow > .footerCol > .underlined1 > .list1 {
+    padding-bottom: 30px;
+}
+
+.footer > .footerInner > .footorRow > .footerCol > .underlined1 > .list2 {
+    padding-bottom: 30px;
+}

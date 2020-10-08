@@ -1,0 +1,116 @@
+/*  Filename: PageFragment5.css */
+
+/*  Form Styles */
+.Container1 {
+    border-radius: 5px;
+}
+
+.redLabel {
+    color: red;
+    text-align: left;
+    width: 700px;
+}
+
+/* Button Styles */
+.Btn {
+    background-color: #0093e9;
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px 0px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.info {
+    float: right;
+    background-color: #0093e9;
+    color: white;
+}
+
+.info:hover {
+    background-color: grey;
+    color: black;
+    border: 2px solid #0093e9;
+}
+
+.h2Header6 {
+    text-align: center;
+    font-size: 38px;
+}
+
+.labels {
+    font-size: 18px;
+}
+
+/* Button Styles */
+.Button2 {
+    height: 35px;
+    width: 90px;
+    background-color: #0093e9;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.info2 {
+    background-color: #0093e9;
+    color: white;
+}
+
+.info2:hover {
+    background-color: grey;
+    color: black;
+    border: 2px solid #0093e9;
+}
+
+/* Button Styles */
+.Button3 {
+    height: 35px;
+    width: 90px;
+    background-color: #0093e9;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.info3 {
+    background-color: #0093e9;
+    color: white;
+}
+
+.info3:hover {
+    background-color: grey;
+    color: black;
+    border: 2px solid #0093e9;
+}
+
+/* Empty Spacing Styles */
+p.EmptySpacing1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+p.EmptySpacing2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+p.EmptySpacing3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

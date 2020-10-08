@@ -1,0 +1,24 @@
+/*  Filename: NoticeBorder.css */
+
+/*  NoticeBorder Styles */
+.Container {
+    background-color: grey;
+}
+
+.h4text {
+    text-align: center;
+}
+
+.clickLink {
+    text-decoration: underline;
+}
+
+.h4text > a:link, 
+.h4text > a:visited{
+    color: greenyellow;
+}
+
+.h4text > a:hover, 
+.h4text > a:active{
+    color: indigo;
+}

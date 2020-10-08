@@ -1,0 +1,16 @@
+/*  Filename: Header.css */
+
+/* Navigation styles */
+.OuterBar {
+    margin: 0px;
+    background-color: #0093e9;
+}
+
+/* logo styles */
+.logo {
+	height: 80px;
+	width: 80px;
+	padding-bottom: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+}

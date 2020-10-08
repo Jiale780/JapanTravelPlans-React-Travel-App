@@ -1,0 +1,27 @@
+/*  Filename: ImageBorder3.css */
+
+/*  ImageBorder3 Styles */
+
+/* Container styles */
+.container3 {
+    margin: 0 auto;
+    padding: 0px;
+    background-image: url(../img/Nikko_Jpn.jpg) center center / cover no-repeat fixed;
+    position: relative;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.container3 > img {
+    width: 100%;
+}
+
+/* Centered style */
+.centered {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

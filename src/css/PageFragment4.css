@@ -1,0 +1,53 @@
+/*  Filename: PageFragment4.css */
+
+/*  PageFragment4 Styles */
+.h2Header5 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+    color: darkblue;
+}
+
+.largefont3 {
+    text-align: center;
+}
+
+.paragraphDesc2 {
+    text-align: center;
+}
+
+.paragraphDesc3 {
+    text-align: center;
+}
+
+.cardHeader1 {
+    color: darkviolet;
+    text-align: center;
+    font-size: 25px;
+}
+
+/* Empty Spacing Styles */
+p.emptySpac1 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+div.emptySpac2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+div.emptySpac3 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+div.emptySpac4 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+div.emptySpac5 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}

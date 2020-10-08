@@ -1,0 +1,26 @@
+/*  Filename: ImageBorder5.css */
+
+/*  ImageBorder5 Styles */
+/* Container styles */
+.container5 {
+    margin: 0 auto;
+    padding: 0px;
+    background-image: url(../img/JapanRobot.jpg) center center / cover no-repeat fixed;
+    position: relative;
+    text-align: center;
+    color: indigo;
+}
+
+.container5 > img {
+    width: 100%;
+}
+
+/* Centered style */
+.centered {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,75 @@
+/*  Filename: PageFragment1.css */
+
+/*  PageFragment1 Styles */
+.paragraph1 {
+    text-align: center;
+}
+
+/* Font style */
+.largefont1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+/* IFrame Style */
+.myIFrame {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.cardTitle1 {
+    text-align: center;
+}
+
+.cardTitle2 {
+    text-align: center;
+}
+
+.cardTitle3 {
+    text-align: center;
+}
+
+.cardText1 {
+    text-align: center;
+}
+
+.cardText2 {
+    text-align: center;
+}
+
+.cardText3 {
+    text-align: center;
+}
+
+.h2Header1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+/* Empty Spacing Styles */
+p.emptySpacing1 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+div.emptySpacing2 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+div.emptySpacing3 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+div.emptySpacing4 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+div.emptySpacing5 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}

@@ -1,0 +1,29 @@
+/*  Filename: SubmitFormPg.css */
+
+/* Header Styles */
+
+.h2style {
+    text-align: center;
+}
+
+.h4Header {
+    text-align: center;
+    color: grey;
+    font-weight: bold;
+}
+
+/* Empty Spacing Styles */
+p.EmptySpace1 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+p.EmptySpace2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+p.EmptySpace3 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}

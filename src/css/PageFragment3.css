@@ -1,0 +1,87 @@
+/*  Filename: PageFragment3.css */
+
+/*  PageFragment3 Styles */
+.h2Header4 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+    color: blue;
+}
+
+.largefont2 {
+    text-align: center;
+}
+
+.paragraphDesc1 {
+    text-align: center;
+}
+
+.h5Font1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.h5Font2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.h5Font3 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.h5Font4 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+/* Empty Spacing Styles */
+p.emptySpacings1 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+div.emptySpacings2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+div.emptySpacings3 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+div.emptySpacings4 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+div.emptySpacings5 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+div.emptySpacings6 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+div.emptySpacings7 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+div.emptySpacings8 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+div.emptySpacings9 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
